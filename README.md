@@ -3,6 +3,8 @@ This blocklist targets organizations with religious donation appeals, extreme id
 
 It is a personal project, and I am sharing it in case someone else might find it useful.
 
+LINK: https://github.com/MultipleQuantumWell/DonationsBlockList/blob/main/MQW_Donations_Blocklist.txt
+
 The blocklist contains domains of organizations that often make persistent donation appeals in a religious context.
 Additionally, it includes organizations associated with the far-right or far-left spectrum, those spreading fake news, or those funded through donation campaigns or webshops.
 The blocklist is primarily intended to protect individuals who are defenseless against such organizations.
